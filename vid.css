@@ -1,6 +1,9 @@
 body{
   width:60%;margin:auto;
 }
+h1{
+  text-align:"center";
+  }
 #img{
   float:left;
   }
