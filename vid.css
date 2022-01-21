@@ -35,4 +35,6 @@ h1{
   color:#FBFFFF;
   background-color:#8165AB"
   }
+ #tb table tr:nth-child(even){
+  background-color:#F7EFD1;}
 
