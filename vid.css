@@ -37,7 +37,7 @@ h1{
   }
  #tb table tr:nth-child(even){
   background-color:#F7EFD1;}
-#tb th{
+#tb thead{
   color:#2305A0;
   }
 
