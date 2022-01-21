@@ -3,6 +3,9 @@ body{
 }
 h1{
   text-align:center;
+  text-align:center;
+  color:#FBFFFF;
+  background-color:#00BBC1
   }
 #img{
   
@@ -29,7 +32,7 @@ h1{
   }
 #thead{
   text-align:center;
-  color:white;
+  color:#FBFFFF;
   background-color:#8165AB"
   }
 
