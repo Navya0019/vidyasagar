@@ -17,5 +17,14 @@ h1{
 #list{
   text-align:left;
 }
-
+#subimg{
+  float:right;
+  width:75%
+  }
+#formref{
+  float:bottom;
+  text-align:left;
+  margin-top:300px;
+  
+  }
 
